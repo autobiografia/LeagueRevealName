@@ -16,7 +16,3 @@ Install dependencies
   node RevealSummonerName.js
 ```
 </> Done!
-## Support
-
-For support, please contact us via Telegram [@heyo](https://t.me/uemano).
-
